@@ -1,2 +1,3 @@
 💥｜新闻,#genre#
 CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
